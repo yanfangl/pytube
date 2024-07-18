@@ -124,7 +124,7 @@ _default_clients = {
     'ANDROID_CREATOR': {
         'context': {
             'client': {
-                'clientName': 'ANDROID_CREATOR',
+                'clientName': 'ANDROID_MUSIC',
                 'clientVersion': '6.40.52',
                 'androidSdkVersion': 30
             }
