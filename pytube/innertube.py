@@ -121,10 +121,10 @@ _default_clients = {
         },
         'api_key': 'AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8'
     },
-    'ANDROID_MUSIC': {
+    'ANDROID_CREATOR': {
         'context': {
             'client': {
-                'clientName': 'ANDROID_MUSIC',
+                'clientName': 'ANDROID_CREATOR',
                 'clientVersion': '6.40.52',
                 'androidSdkVersion': 30
             }
